@@ -9,3 +9,6 @@ md "Maranhao" "Piaui" "Ceara" "Rio Grande do Norte" "Pernambuco" "Paraiba" "Serg
 cd..
 cd "Centro-Oeste"
 md "Mato Grosso" "Mato Grosso do Sul" "Goias"
+cd..
+cd Sudeste
+md "Sao Paulo" "Rio de Janeiro" "Espirito Santo" "Minas Gerais" 
