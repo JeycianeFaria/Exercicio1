@@ -12,3 +12,6 @@ md "Mato Grosso" "Mato Grosso do Sul" "Goias"
 cd..
 cd Sudeste
 md "Sao Paulo" "Rio de Janeiro" "Espirito Santo" "Minas Gerais" 
+cd..
+cd Sul
+md "Parana" "Rio Grande do Sul" "Santa Catarina"
