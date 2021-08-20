@@ -4,3 +4,7 @@ md "Serie A" "Serie B"
 cd "Serie A"
 md "Atletico-MG" "Palmeiras" "Fortaleza" "Bragantino" "Flamengo" "Athetico-PR" "Atletico-GO" "Ceara" "Internacional" "Santos"
 md "Corinthians" "Juventude" "Bahia" "Sao Paulo" "Fluminense" "Cuiaba" "Sport" "America-MG" "Gremio" "Chapecoense"
+cd..
+cd "Serie B"
+md "Coritiba" "Goias" "Avai" "CBR" "Sampaio Correa" "Guarani" "Nautico" "Botafogo" "Operario-PR" "CSA"
+md "Vasco" "Remo" "Brusque" "Cruzeiro" "Vila Nova" "Ponte Preta" "Londrina" "Vitoria" "Confianca" "Brasil de Pelotas" 
