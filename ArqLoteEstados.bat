@@ -1,17 +1,19 @@
 md "Todos os Estados"
 cd "Todos os Estados"
 md "Centro-Oeste" "Nordeste" "Norte" "Sul" "Sudeste"
-cd Norte
-md "Amazonas" "Roraima" "Amapa" "Para" "Tocantins" "Rondonia" "Acre"
+cd "Centro-Oeste"
+md "Goias" "Mato Grosso" "Mato Grosso do Sul" 
 cd..
 cd Nordeste
-md "Maranhao" "Piaui" "Ceara" "Rio Grande do Norte" "Pernambuco" "Paraiba" "Sergipe" "Alagoas" "Bahia"
+md "Alagoas" "Bahia" "Ceara" "Maranhao" "Paraiba" "Pernambuco" "Piaui" "Rio Grande do Norte" "Sergipe" 
 cd..
-cd "Centro-Oeste"
-md "Mato Grosso" "Mato Grosso do Sul" "Goias"
+cd Norte
+md "Acre" "Amapa" "Amazonas" "Para" "Rondonia"  "Roraima"  "Tocantins"  
 cd..
 cd Sudeste
-md "Sao Paulo" "Rio de Janeiro" "Espirito Santo" "Minas Gerais" 
-cd..
+md "Espirito Santo" "Minas Gerais" "Rio de Janeiro" "Sao Paulo"
+cd..  
 cd Sul
 md "Parana" "Rio Grande do Sul" "Santa Catarina"
+
+  
